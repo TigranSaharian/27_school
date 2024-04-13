@@ -58,7 +58,7 @@
     }
 
     .top-nav-collapse .navbar-brand img {
-        width: 48%
+        width: 65%
     }
 
     .btn-lg {
@@ -72,8 +72,7 @@
     }
 
     .navbar-brand img {
-        margin: 5px 0;
-        width: 48%
+        width: 75%
     }
 
     #carousel-area .carousel-item .carousel-caption h3 {
@@ -99,9 +98,9 @@
         border: none
     }
 
-    .portfoli-content::before {
+    /* .portfoli-content::before {
         left: 30px
-    }
+    } */
 
     .testimonial-item {
         padding: 0
